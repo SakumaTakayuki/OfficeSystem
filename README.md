@@ -1,7 +1,8 @@
 # OfficeSystem
 
 <h3>ログインページとユーザー検索機能</h3>
-<p>言語はJava。SpringMVCで作成。</p>
+<p>言語はJava、SpringMVCで作成</p>
+<p>Eclipse、Visual Studio Codeを使用</p>
 <p>訓練校で学習したログインページ、ユーザー検索機能、新規登録の作成の復習をするために、機能の追加と改修を行う。</p>
 
 <h4>新規登録機能</h4>
